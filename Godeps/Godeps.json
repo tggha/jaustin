@@ -164,7 +164,7 @@
 			"Rev": "7e36a06e08cc6f803f6f0cc6a1f5f99ef571d1e4"
 		},
 		{
-			"ImportPath": "github.com/tggha/backoff",
+			"ImportPath": "github.com/jpillora/backoff",
 			"Rev": "a6f64285fd4072883335339357436b78d62c96a4"
 		},
 		{
