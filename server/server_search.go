@@ -7,10 +7,10 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/tggha/backoff"
+	"github.com/jpillora/backoff"
 )
 
-const searchConfigURL = "https://gist.githubusercontent.com/tggha/4d945b46b3025843b066adf3d685be6b/raw/scraper-config.json"
+const searchConfigURL = "https://gist.githubusercontent.com/jpillora/4d945b46b3025843b066adf3d685be6b/raw/scraper-config.json"
 
 func (s *Server) fetchSearchConfigLoop() {
 	b := backoff.Backoff{Max: 30 * time.Minute}
