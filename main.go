@@ -4,7 +4,7 @@ import (
 	"log"
 
 	"github.com/tggha/jaustin/server"
-	"github.com/jpillora/opts"
+	"github.com/tggha/opts"
 )
 
 var VERSION = "0.0.0-src" //set with ldflags
