@@ -16,11 +16,11 @@ import (
 
 	"github.com/tggha/jaustin/engine"
 	"github.com/tggha/jaustin/static"
-	"github.com/jpillora/cookieauth"
-	"github.com/jpillora/gziphandler"
-	"github.com/jpillora/requestlog"
-	"github.com/jpillora/scraper/scraper"
-	"github.com/jpillora/velox"
+	"github.com/tggha/cookieauth"
+	"github.com/tggha/gziphandler"
+	"github.com/tggha/requestlog"
+	"github.com/tggha/scraper/scraper"
+	"github.com/tggha/velox"
 	"github.com/skratchdot/open-golang/open"
 )
 
