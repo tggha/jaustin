@@ -14,8 +14,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/gavbn/bbth/engine"
-	"github.com/gavbn/bbth/static"
+	"github.com/tggha/jaustin/engine"
+	"github.com/tggha/jaustin/static"
 	"github.com/jpillora/cookieauth"
 	"github.com/jpillora/gziphandler"
 	"github.com/jpillora/requestlog"
