@@ -1,7 +1,7 @@
 {
-	"ImportPath": "github.com/gavbn/bbth",
+	"ImportPath": "github.com/tggha/jaustin",
 	"GoVersion": "go1.8",
-	"GodepVersion": "v81",
+	"GodepVersion": "v88",
 	"Deps": [
 		{
 			"ImportPath": "github.com/PuerkitoBio/goquery",
